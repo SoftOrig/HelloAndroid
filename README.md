@@ -1,1 +1,2 @@
-# HelloAndroid
+# HelloAndroid 
+toto je zmeneny subor 
